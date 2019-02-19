@@ -1,5 +1,3 @@
-## Forking Software LLC
-
 Simple software as a service.
 
 ### Team
