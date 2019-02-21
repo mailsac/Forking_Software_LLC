@@ -1,10 +1,13 @@
+### What We Do
+
 Simple software as a service.
 
-### Team
+### Who We Are
 
-Forking Software is [Michael Mayer](https://github.com/mjmayer) and [Jeff Parrish](https://github.com/ruffrey).
+- [Michael Mayer](https://github.com/mjmayer)
+- [Jeff Parrish](https://github.com/ruffrey)
 
-### Support or Contact
+### How to Reach Us
 
 For [Mailsac](https://mailsac.com) support, email `support` at `team.mailsac.com`
 
