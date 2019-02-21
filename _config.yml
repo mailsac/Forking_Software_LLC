@@ -1,2 +1,5 @@
 logo: mailsac-logo-v2.png
 theme: jekyll-theme-hacker
+description: Homepage for the company behind Mailsac
+show_downloads: false
+google_analytics: 
